@@ -1,0 +1,23 @@
+name: iamalexcohen
+favicon: null
+layout_spectrum: 0.8934786743484437
+typography_spectrum: 0.5307543014641851
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8003678505774587
+  lightness: 0.19701997726224363
+  saturation: 0.6300039291381836
+  rhythmicContrast: 0.07654488948173821
+purpose: []
