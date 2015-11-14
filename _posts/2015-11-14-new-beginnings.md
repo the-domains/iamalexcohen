@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: There is a new beginning in every moment.
-datePublished: '2015-11-14T15:52:00.908Z'
-dateModified: '2015-11-14T15:51:42.754Z'
+datePublished: '2015-11-14T15:52:13.201Z'
+dateModified: '2015-11-14T15:52:00.908Z'
 title: New Beginnings
 authors: []
 publisher:
