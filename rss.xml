@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[iamalexcohen]]></title>
         <description><![CDATA[iamalexcohen]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/iamalexcohen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 14 Nov 2015 15:52:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 14 Nov 2015 15:52:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/iamalexcohen/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[New Beginnings]]></title>
             <description><![CDATA[<article><h1>New Beginnings</h1><p>There is a new beginning in every moment.</p></article>]]></description>
-            <link>undefinednew-beginnings/index.html</link>
+            <link>https://thegrid.ai/iamalexcohen/new-beginnings/index.html</link>
             <guid isPermaLink="false">4707d34d-fb85-4d75-9594-e79927431501</guid>
-            <pubDate>Sat, 14 Nov 2015 15:52:00 GMT</pubDate>
+            <pubDate>Sat, 14 Nov 2015 15:52:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
